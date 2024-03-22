@@ -1,5 +1,7 @@
+Training folder: This is performed with the Final.mat MAIN.m main code obtained using the Stanford HIV Drug Resistance and ChEMBL dataset in the Training folder. After some processes, YPRED is obtained as the last key output in this folder.
+Analysis folder: Model performances are evaluated using YPRED obtained in the Analysis folder.
+
 # Data:
-Stanford_Data.xlsx: Stanford data for 10 RTIs (downloaded 22/02/2023).
 External_Data.xlsx: ChEMBL-curated dataset. Refer to the manuscript for full details.
 Final.mat: Includes, Stanford data for 10 RTIs (downloaded 22/02/2023) and external_data.xlsx (ChEMBL-curated dataset). Refer to the manuscript for full details.
 Muts.mat: Contains unique mutations found in the Stanford dataset.
