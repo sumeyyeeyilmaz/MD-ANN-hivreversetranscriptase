@@ -18,7 +18,7 @@ tan_sim.m: This file measures the angle between two vectors and expresses the si
 training.m : This file aims to conduct training using an ANN.
 MAIN.m: This code generates predictions by cross-validating the external dataset and saves these predictions to a file. I
 Create_YPRED.m: YPRED5 and foldIndexes.mat files are loaded. It assigns it to an array by rearranging and concatenating it, and then saves these predictions in the YPRED.mat file.
-Code.m: This code contains a set of operations used to analyze the results by performing various operations on a data set.
+Analysis.m: This code contains a set of operations used to analyze the results by performing various operations on a data set.
 
 
 
